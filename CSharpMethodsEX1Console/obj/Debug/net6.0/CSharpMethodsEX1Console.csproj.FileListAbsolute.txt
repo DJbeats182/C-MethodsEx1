@@ -1,0 +1,15 @@
+C:\Users\bloov\Desktop\repos\C# Methods\CSharpMethodsEX1\CSharpMethodsEX1Console\obj\Debug\net6.0\CSharpMethodsEX1Console.csproj.AssemblyReference.cache
+C:\Users\bloov\Desktop\repos\C# Methods\CSharpMethodsEX1\CSharpMethodsEX1Console\obj\Debug\net6.0\CSharpMethodsEX1Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bloov\Desktop\repos\C# Methods\CSharpMethodsEX1\CSharpMethodsEX1Console\obj\Debug\net6.0\CSharpMethodsEX1Console.AssemblyInfoInputs.cache
+C:\Users\bloov\Desktop\repos\C# Methods\CSharpMethodsEX1\CSharpMethodsEX1Console\obj\Debug\net6.0\CSharpMethodsEX1Console.AssemblyInfo.cs
+C:\Users\bloov\Desktop\repos\C# Methods\CSharpMethodsEX1\CSharpMethodsEX1Console\obj\Debug\net6.0\CSharpMethodsEX1Console.csproj.CoreCompileInputs.cache
+C:\Users\bloov\Desktop\repos\C# Methods\CSharpMethodsEX1\CSharpMethodsEX1Console\bin\Debug\net6.0\CSharpMethodsEX1Console.exe
+C:\Users\bloov\Desktop\repos\C# Methods\CSharpMethodsEX1\CSharpMethodsEX1Console\bin\Debug\net6.0\CSharpMethodsEX1Console.deps.json
+C:\Users\bloov\Desktop\repos\C# Methods\CSharpMethodsEX1\CSharpMethodsEX1Console\bin\Debug\net6.0\CSharpMethodsEX1Console.runtimeconfig.json
+C:\Users\bloov\Desktop\repos\C# Methods\CSharpMethodsEX1\CSharpMethodsEX1Console\bin\Debug\net6.0\CSharpMethodsEX1Console.dll
+C:\Users\bloov\Desktop\repos\C# Methods\CSharpMethodsEX1\CSharpMethodsEX1Console\bin\Debug\net6.0\CSharpMethodsEX1Console.pdb
+C:\Users\bloov\Desktop\repos\C# Methods\CSharpMethodsEX1\CSharpMethodsEX1Console\obj\Debug\net6.0\CSharpMethodsEX1Console.dll
+C:\Users\bloov\Desktop\repos\C# Methods\CSharpMethodsEX1\CSharpMethodsEX1Console\obj\Debug\net6.0\refint\CSharpMethodsEX1Console.dll
+C:\Users\bloov\Desktop\repos\C# Methods\CSharpMethodsEX1\CSharpMethodsEX1Console\obj\Debug\net6.0\CSharpMethodsEX1Console.pdb
+C:\Users\bloov\Desktop\repos\C# Methods\CSharpMethodsEX1\CSharpMethodsEX1Console\obj\Debug\net6.0\CSharpMethodsEX1Console.genruntimeconfig.cache
+C:\Users\bloov\Desktop\repos\C# Methods\CSharpMethodsEX1\CSharpMethodsEX1Console\obj\Debug\net6.0\ref\CSharpMethodsEX1Console.dll
